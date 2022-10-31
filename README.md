@@ -1,7 +1,6 @@
 # Where to NYC?
 
-## Tableau Link: [
-](https://public.tableau.com/views/citi_biking_activity_16671662744040/Top10Stats?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Tableau Link: https://public.tableau.com/views/citi_biking_activity_16671662744040/Top10Stats?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ![citi-bike-station-bikes](https://user-images.githubusercontent.com/67832009/198903194-49fd8eef-d50d-4591-a182-67ad6a9f15f0.jpg)
 
